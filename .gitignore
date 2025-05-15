@@ -1,0 +1,22 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Uncomment if you have a Visual Studio project
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider IDE specific
+.idea/
+
+# Visual Studio Code settings
+.vscode/
+
+# Visual Studio settings
+.vs/
+
+# Include the debug log files if any
+*.log
