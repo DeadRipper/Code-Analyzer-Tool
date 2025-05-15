@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Code Analyzer Tool": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
