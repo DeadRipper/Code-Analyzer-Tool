@@ -15,5 +15,8 @@
 # Visual Studio Code settings
 .vscode/
 
+# Visual Studio settings
+.vs/
+
 # Include the debug log files if any
 *.log
